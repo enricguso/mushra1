@@ -55,12 +55,12 @@ var TestConfig = {
       "TestID": "id1_4",
       "Files": {
             "Reference": "audio/nf_sp_dry.wav",
-            "1": "audio/nf_sp_santosgam.wav",
-            "2": "audio/nf_sp_santosstft.wav",
-            "3": "audio/nf_sp_santoswiener.wav",
-            "4": "audio/nf_sp_unetgam.wav",
-            "5": "audio/nf_sp_unetstft.wav",
-            "6": "audio/nf_sp_unetwiener.wav",
+            "1": "audio/nf_speech_santosgam.wav",
+            "2": "audio/nf_speech_santosstft.wav",
+            "3": "audio/nf_speech_santoswiener.wav",
+            "4": "audio/nf_speech_unetgam.wav",
+            "5": "audio/nf_speech_unetstft.wav",
+            "6": "audio/nf_speech_unetwiener.wav",
 
         }
     },
