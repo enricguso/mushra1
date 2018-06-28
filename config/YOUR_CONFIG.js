@@ -54,7 +54,7 @@ var TestConfig = {
       "Name": "speech_nearfield",
       "TestID": "id1_4",
       "Files": {
-            "Reference": "audio/nf_sp_dry.wav",
+            "Reference": "audio/nf_speech_dry.wav",
             "1": "audio/nf_speech_santosgam.wav",
             "2": "audio/nf_speech_santosstft.wav",
             "3": "audio/nf_speech_santoswiener.wav",
